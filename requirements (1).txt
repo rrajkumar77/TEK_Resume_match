@@ -2,7 +2,7 @@ streamlit
 requests
 PyPDF2
 python-dotenv
-google-generativeai
+google-generativeai==0.3.2
 langchain-experimental
 python-docx
 PyMuPDF==1.22.3
